@@ -8218,7 +8218,7 @@ h1, h2, h3, h4, h5,
     display: block;
     width: 100%;
     font-weight: normal;
-    font-size: 74px;
+    font-size: 68px;
     line-height: .8;
     font-family: "Abril Fatface", cursive; }
     @media (max-width: 1199.98px) {
@@ -8908,7 +8908,7 @@ textarea.form-control {
   background-position: center center; }
 
 .bg-light {
-  background: #f8f9fa !important; }
+  background: #FFFCF7 !important; }
 
 .bg-primary {
   background: #1eafed !important; }
