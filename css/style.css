@@ -8268,7 +8268,7 @@ h1, h2, h3, h4, h5,
           bottom: 7px;
           left: 0;
           right: 0;
-          background-color: #1eafed;
+          background-color: #EBD785;
           visibility: hidden;
           -webkit-transform: scaleX(0);
           -moz-transform: scaleX(0);
@@ -8293,7 +8293,7 @@ h1, h2, h3, h4, h5,
       #colorlib-aside #colorlib-main-menu ul li.colorlib-active {
         font-weight: 600; }
         #colorlib-aside #colorlib-main-menu ul li.colorlib-active a {
-          color: #1eafed; }
+          color: #EBD785; }
           #colorlib-aside #colorlib-main-menu ul li.colorlib-active a:after {
             visibility: visible;
             -webkit-transform: scaleX(1);
